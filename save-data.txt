@@ -1,0 +1,1 @@
+{"Temperature": {"current": 26, "max": 52, "min": 15, "avg": 28.020833333333332}, "Humidity": {"current": 51, "max": 55, "min": 10, "avg": 45.958333333333336}, "WindSpeed": {"current": 31, "max": 50, "min": 20, "avg": 30.645833333333332}, "WindDirect": "south"}
